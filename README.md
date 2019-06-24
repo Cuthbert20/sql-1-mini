@@ -4,7 +4,10 @@
 
 In this project, we'll be practicing inserting and querying data using SQL. We'll make use of an online database emulator tool found  <a href="https://postgres.devmountain.com/">Here</a>. Careful, if you reload the page your changes will be lost.
 
-On the left are the Tables with their fields. The right is where we will be writing our queries. The bottom is where we will see our results.  
+On the left are the Tables with their fields. The right is where we will be writing our queries. The bottom is where we will see our results. 
+<p>
+Hi everyBody! Its Day One June 24th 2019
+</p> 
 
 ## Step 1
 
